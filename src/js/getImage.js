@@ -5,11 +5,7 @@ const axios = require('axios').default;
 const DEFAULT_URL = 'https://pixabay.com/api/';
 
 
-// const options = {
-//   headers: {
-//     "key": "33660007-8865277052768d74528f73e50",
-//   },
-// };
+
 import { Notify } from 'notiflix/build/notiflix-notify-aio';
 Notify.init({
   width: '500px',
