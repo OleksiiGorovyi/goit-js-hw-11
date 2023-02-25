@@ -1,7 +1,7 @@
 import { Notify } from 'notiflix/build/notiflix-notify-aio';
 import axios from 'axios';
 
-const axios = require('axios').default;
+// const axios = require('axios').default;
 const DEFAULT_URL = 'https://pixabay.com/api/';
 
 
